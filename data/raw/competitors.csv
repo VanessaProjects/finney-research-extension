@@ -1,11 +1,11 @@
 id,name,founded_year,archetype,estimated_size,geographic_focus,positioning_claim,primary_threat_type,source_url,date_collected
-1,Goldblatt + Singer,1949,Boutique,"~7-9","Clayton",,"HIGHEST - closest positioning overlap",URL,2026-06-02
-2,Cantor,1985+,Volume,"~10+","St. Louis",,"High - market visibility",URL,2026-06-02
-3,Simon Law,Multi-decade,Premium,"~50+","Multi-state",,"High - celebrity/podcast",URL,2026-06-02
-4,Schultz & Myers,2010,Boutique,"~5-7","STL/Creve Coeur/Ladue",,"Medium - trucking specialist",URL,2026-06-02
-5,Cofman Townsley,1973,Legacy,"~5-6","STL/Clayton",,"Medium - heritage scale",URL,2026-06-02
-6,Bruning,2016,Boutique,"~5-6","STL/Creve Coeur/Chicago/IL",,"Medium - shared SLU Law",URL,2026-06-02
-7,Brown & Crouppen,1980s,Legacy,"100+","Multi-MO+IL",,"Low - different prospect pool",URL,2026-06-02
-8,Morgan & Morgan,1988,Volume,"1,000+","National (50+)",,"Low - different prospect pool",URL,2026-06-02
-9,OnderLaw,2002,Volume,"100+","National",,"Low - mass tort niche",URL,2026-06-02
-10,DM Law,Multi-decade,Boutique,"20+","STL+KC",,"Low - less visible",URL,2026-06-02
+1,Goldblatt + Singer,1949,Boutique,"~7-9","Clayton","Goldblatt + Singer presents itself as a long-established St. Louis injury firm, drawing on 77 years of local heritage and a claim of former insurance-defense experience to signal courtroom credibility.","HIGHEST - closest positioning overlap",URL,2026-06-02
+2,Cantor,1985+,Volume,"~10+","St. Louis","Cantor Injury Law positions itself around its founder's personal brand, presenting Mark Cantor as an accessible, dependable local advocate for everyday injury victims.","High - market visibility",URL,2026-06-02
+3,Simon Law,Multi-decade,Premium,"~50+","Multi-state","Simon Law Firm positions itself as a premier trial practice led by a nationally recognized attorney, emphasizing major verdicts, deep resources, and readiness to take every case to trial.","High - celebrity/podcast",URL,2026-06-02
+4,Schultz & Myers,2010,Boutique,"~5-7","STL/Creve Coeur/Ladue","Schultz & Myers positions itself as an aggressive, results-driven personal injury firm with particular depth in tractor-trailer and trucking cases.","Medium - trucking specialist",URL,2026-06-02
+5,Cofman Townsley,1973,Legacy,"~5-6","STL/Clayton","Cofman Townsley positions itself as an approachable, family-oriented firm that emphasizes real client results and personal, testimonial-driven service.","Medium - heritage scale",URL,2026-06-02
+6,Bruning,2016,Boutique,"~5-6","STL/Creve Coeur/Chicago/IL","The Bruning Law Firm positions itself as a multigenerational family practice, emphasizing community roots and a modern, client-first approach to injury cases.","Medium - shared SLU Law",URL,2026-06-02
+7,Brown & Crouppen,1980s,Legacy,"100+","Multi-MO+IL","Brown & Crouppen positions itself as a high-visibility, high-volume St. Louis injury firm, leaning on decades of advertising presence and more than a billion dollars recovered.","Low - different prospect pool",URL,2026-06-02
+8,Morgan & Morgan,1988,Volume,"1,000+","National (50+)","Morgan & Morgan positions itself as America's largest injury firm, emphasizing nationwide scale, the For the People brand, and aggressive advocacy against insurers.","Low - different prospect pool",URL,2026-06-02
+9,OnderLaw,2002,Volume,"100+","National","OnderLaw positions itself as a national mass-tort specialist, emphasizing award recognition and a track record of large-scale injury and pharmaceutical litigation.","Low - mass tort niche",URL,2026-06-02
+10,DM Law,Multi-decade,Boutique,"20+","STL+KC","DM Law positions itself as a founder-led, settlement-focused injury practice serving the St. Louis and Kansas City markets with a conventional, client-service approach.","Low - less visible",URL,2026-06-02
