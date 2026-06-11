@@ -1,11 +1,11 @@
 id,firm_id,phrase,category,keyword_type,source_observation,date_observed
-1,1,We're the St. Louis Injury Law Firm. Call us today so we can begin investigating your case. Our team will tailor our services to reach the best possible results for your case.,,,HubSpot competitor ad library,2026-04-15
-2,2,St. Louis Slip & Fall Lawyers: Contact Us Today. Contact us - cantorinjurylaw.com,,,HubSpot competitor ad library,2026-04-15
-3,3,"TV/media ads feature John Simon and a 314-241-2929 number, targeting victims of e.g. trucking accidents. Highly targeted Facebook/LinkedIn campaigns incl. sensitive areas like sexual abuse, generating millions of impressions. Sponsors KSDK Show Me Something Good. Branded content in St. Louis Magazine highlights cases into causes approach. Messaging: world-class trial attorneys ready to take cases to trial.",,,HubSpot competitor ad library,2026-04-15
-4,4,"Call 4 Get More 314-444-4444. Schultz and Myers - the No-Win, No-Fee guarantee at Schultz Myers. Every accident victim deserves justice!",,,HubSpot competitor ad library,2026-04-15
-5,5,Coffman Townsley. Real People Real Results. Auto Accident Injuries. Scan to call 314-777-7777.,,,HubSpot competitor ad library,2026-04-15
-6,6,Award-Winning. For a Reason. Smarter Approach. Better Results. Call 24/7 for Your Free Injury Consultation. Higher Payout. Personal injury attorney - St. Louis - Open 24 hours.,,,HubSpot competitor ad library,2026-04-15
-7,7,"More Than $1 Billion Won. Hurt or Injured in an Accident? You May Be Entitled to Compensation. We Can Help! Since 1979, We've Won Over $1 Billion For Our Clients. Get A Free Case Evaluation Now.",,,HubSpot competitor ad library,2026-04-15
-8,8,"America's Largest Injury Firm. Get Started 100% Online In Minutes - Skip The Call And Sign Up Right From Your Phone. Insurers Don't Always Offer Enough. We Fight For More. Free Case Review. 100% Free Unless We Win. Available 24/7. Types: Car Accidents, Motorcycle Accidents, Slip & Falls.",,,HubSpot competitor ad library,2026-04-15
-9,9,"Onder Wins. Voted best law firm 2020, 2022, 2023, 2024. Injury Attorneys.",,,HubSpot competitor ad library,2026-04-15
-10,10,Injured in an accident? You may be entitled to compensation. Call now for a free consultation.,,,HubSpot competitor ad library,2026-04-15
+1,1,"We're the St. Louis Injury Law Firm. Call us today so we can begin investigating your case. Our team will tailor our services to reach the best possible results for your case.",Avoid,,HubSpot competitor ad library,2026-04-15
+2,2,"St. Louis Slip & Fall Lawyers: Contact Us Today. Contact us - cantorinjurylaw.com",Avoid,,HubSpot competitor ad library,2026-04-15
+3,3,"TV/media ads feature John Simon and a 314-241-2929 number, targeting victims of trucking accidents. Messaging: world-class trial attorneys ready to take cases to trial.",Own,,HubSpot competitor ad library,2026-04-15
+4,4,"Call 4 Get More 314-444-4444. Schultz and Myers - the No-Win, No-Fee guarantee at Schultz Myers. Every accident victim deserves justice!",Avoid,,HubSpot competitor ad library,2026-04-15
+5,5,"Coffman Townsley. Real People Real Results. Auto Accident Injuries. Scan to call 314-777-7777.",Avoid,,HubSpot competitor ad library,2026-04-15
+6,6,"Award-Winning. For a Reason. Smarter Approach. Better Results. Call 24/7 for Your Free Injury Consultation. Higher Payout.",Copy,,HubSpot competitor ad library,2026-04-15
+7,7,"More Than $1 Billion Won. Hurt or Injured in an Accident? You May Be Entitled to Compensation. Since 1979 We've Won Over $1 Billion For Our Clients. Get A Free Case Evaluation Now.",Avoid,,HubSpot competitor ad library,2026-04-15
+8,8,"America's Largest Injury Firm. Get Started 100% Online In Minutes. Insurers Don't Always Offer Enough. We Fight For More. Free Case Review. 100% Free Unless We Win. Available 24/7.",Avoid,,HubSpot competitor ad library,2026-04-15
+9,9,"Onder Wins. Voted best law firm 2020, 2022, 2023, 2024. Injury Attorneys.",Copy,,HubSpot competitor ad library,2026-04-15
+10,10,"Injured in an accident? You may be entitled to compensation. Call now for a free consultation.",Avoid,,HubSpot competitor ad library,2026-04-15
