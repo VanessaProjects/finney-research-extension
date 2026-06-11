@@ -33,7 +33,10 @@ finney_positioning = (
     "courtroom readiness, verifiable verdicts, and a deliberately selective, "
     "restrained approach rather than high-volume advertising."
 )
-finney_emb = model.encode([finney_positioning])
+finney_emb = model.encode(["A selective St. Louis personal injury trial firm built around "
+    "three attorneys with explicit former insurance-defense experience, "
+    "verifiable individual trial counts, and a deliberately small caseload "
+    "that signals genuine trial readiness over high-volume settlement practice."])
 np.save(PROC / 'finney_embedding.npy', finney_emb)
 print('Finney embedding shape:', finney_emb.shape)  # expect (1, 384)
 
